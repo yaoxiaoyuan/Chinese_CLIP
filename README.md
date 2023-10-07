@@ -1,4 +1,4 @@
-# Chinese Image Caption
+# Chinese CLIP
 
 This repo trained Chinese clip model. 
 
